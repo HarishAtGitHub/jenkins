@@ -1,0 +1,34 @@
+<j:jelly xmlns:j="jelly:core" xmlns:st="jelly:stapler" xmlns:d="jelly:define" xmlns:l="/lib/layout" xmlns:t="/lib/hudson" xmlns:f="/lib/form">
+
+
+     <f:entry title="Hostname" help="/plugin/scp/WEB-INF/classes/be/certipost/hudson/plugin/SCPRepositoryPublisher/help-hostname.html" >
+         <f:textbox name="scp.Hostname" value="${scp.Hostname}" field="Hostname" />
+     </f:entry>
+     <f:entry title="Port" help="/plugin/scp/WEB-INF/classes/be/certipost/hudson/plugin/SCPRepositoryPublisher/help-port.html" >
+         <f:textbox name="scp.Port" value="${scp.Port}" field="Port" />
+     </f:entry>
+
+     <f:entry title="Username" help="/plugin/scp/WEB-INF/classes/be/certipost/hudson/plugin/SCPRepositoryPublisher/help-username.html" >
+         <f:textbox name="scp.scpUsername" value="${scp.scpUsername}" field="scpUsername" />
+     </f:entry>
+      <f:entry title="Password" help="/plugin/scp/WEB-INF/classes/be/certipost/hudson/plugin/SCPRepositoryPublisher/help-password.html">
+              <f:password name="scp.scpPassword" value="${scp.scpPassword}" field="scpPassword" />
+      </f:entry>
+      <f:entry title="Keyfile" help="/plugin/scp/WEB-INF/classes/be/certipost/hudson/plugin/SCPRepositoryPublisher/help-keyfile.html">
+              <f:textbox name="scp.Keyfile" value="${scp.Keyfile}" field="Keyfile" />
+      </f:entry>
+      <f:entry title="Source" help="/plugin/scp/WEB-INF/classes/be/certipost/hudson/plugin/SCPRepositoryPublisher/help-sourceFile.html" >
+               <f:textbox name="scp.Source" value="${scp.Source}" field="Source" />
+      </f:entry>
+      <f:entry title="Destination" help="/plugin/scp/WEB-INF/classes/be/certipost/hudson/plugin/SCPRepositoryPublisher/help-filePath.html">
+               <f:textbox name="scp.Destination" value="${scp.Destination}" field="Destination" />
+      </f:entry>
+      <f:entry title="Keep Hierarchy" >
+          <f:checkbox name="scp.keepHierarchy" checked="${keepHierarchy}" field="keepHierarchy"/>
+       </f:entry>
+
+
+
+
+
+</j:jelly>

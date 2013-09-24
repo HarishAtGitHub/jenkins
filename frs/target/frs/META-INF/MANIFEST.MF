@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+Built-By: harish
+Created-By: Apache Maven
+Build-Jdk: 1.6.0_26
+Extension-Name: frs
+Implementation-Title: frs
+Implementation-Version: 1.0-SNAPSHOT
+Group-Id: net.collab.frs
+Short-Name: frs
+Long-Name: frs
+Url: http://jenkins-ci.org/plugin/frs/
+Plugin-Version: 1.0-SNAPSHOT (private-04/30/2012 15:07-harish)
+Hudson-Version: 1.447
+Jenkins-Version: 1.447
+Plugin-Developers: 
+

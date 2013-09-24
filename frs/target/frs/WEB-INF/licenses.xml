@@ -1,0 +1,32 @@
+<l:dependencies xmlns:l='licenses'>
+  <l:dependency name='frs' groupId='net.collab.frs' artifactId='frs' version='1.0-SNAPSHOT' url='http://jenkins-ci.org/plugin/frs/'>
+    <l:description />
+  </l:dependency>
+  <l:dependency name='wsdl' groupId='com.collab' artifactId='wsdl' version='1.1'>
+    <l:description>POM was created from install:install-file</l:description>
+  </l:dependency>
+  <l:dependency name='mail' groupId='com.collab' artifactId='mail' version='1.1'>
+    <l:description>POM was created from install:install-file</l:description>
+  </l:dependency>
+  <l:dependency name='commondisc' groupId='com.collab' artifactId='commondisc' version='1.1'>
+    <l:description>POM was created from install:install-file</l:description>
+  </l:dependency>
+  <l:dependency name='axis' groupId='com.collab' artifactId='axis' version='1.1'>
+    <l:description>POM was created from install:install-file</l:description>
+  </l:dependency>
+  <l:dependency name='sfsoap' groupId='com.collab' artifactId='sfsoap' version='1.1'>
+    <l:description>POM was created from install:install-file</l:description>
+  </l:dependency>
+  <l:dependency name='saaj' groupId='com.collab' artifactId='saaj' version='1.1'>
+    <l:description>POM was created from install:install-file</l:description>
+  </l:dependency>
+  <l:dependency name='commonlog' groupId='com.collab' artifactId='commonlog' version='1.1'>
+    <l:description>POM was created from install:install-file</l:description>
+  </l:dependency>
+  <l:dependency name='log4j' groupId='com.collab' artifactId='log4j' version='1.1'>
+    <l:description>POM was created from install:install-file</l:description>
+  </l:dependency>
+  <l:dependency name='axisjaxrpc' groupId='com.collab' artifactId='axisjaxrpc' version='1.1'>
+    <l:description>POM was created from install:install-file</l:description>
+  </l:dependency>
+</l:dependencies>
