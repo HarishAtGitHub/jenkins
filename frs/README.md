@@ -1,4 +1,9 @@
-This Plugin does the job of File synching between repository and another given location. 
+Jenkins File synch plugin
+=========================
+
+
+      This Plugin does the job of File synching between repository and another given location. 
+
 
 It polls the repository for any change in file or any new file added or any existing file deleted . 
 
@@ -11,6 +16,8 @@ Requirement that made me do this plugin :
     
     
 Screen shot of the plugin configuration in jenkins : 
+
+   ![Look of the jenkins configuration page](https://raw.github.com/HarishAtGitHub/jenkins/master/frs/snapshots/jenkinsfrsplugin.png)
 
     
     
