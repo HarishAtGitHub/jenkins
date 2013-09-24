@@ -8,4 +8,4 @@ SCP(Secure Copy Customized)
       
 ScreenShot of the Job configuration page : 
      
-    ![Jenkins Job Configuration page](https://raw.github.com/HarishAtGitHub/jenkins/master/scp-plugin/snapshots/jenkinscollabnetscpplugin.png)
+![Jenkins Job Configuration page](https://raw.github.com/HarishAtGitHub/jenkins/master/scp-plugin/snapshots/jenkinscollabnetscpplugin.png)
