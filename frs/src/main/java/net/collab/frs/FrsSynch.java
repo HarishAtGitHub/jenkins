@@ -45,13 +45,7 @@ import com.collabnet.ce.soap60.webservices.frs.FrsFileSoapList;
 
 // import for polling
 import java.util.*;
-/**
- * Created by IntelliJ IDEA.
- * User: harish
- * Date: 4/2/12
- * Time: 12:22 PM
- * To change this template use File | Settings | File Templates.
- */
+
 public class FrsSynch extends SCM{
 
     private String url;
